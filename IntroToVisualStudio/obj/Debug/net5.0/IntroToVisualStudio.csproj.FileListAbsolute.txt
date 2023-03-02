@@ -1,0 +1,16 @@
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\bin\Debug\net5.0\IntroToVisualStudio.exe
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\bin\Debug\net5.0\IntroToVisualStudio.deps.json
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\bin\Debug\net5.0\IntroToVisualStudio.runtimeconfig.json
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\bin\Debug\net5.0\IntroToVisualStudio.runtimeconfig.dev.json
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\bin\Debug\net5.0\IntroToVisualStudio.dll
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\bin\Debug\net5.0\IntroToVisualStudio.pdb
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.csproj.AssemblyReference.cache
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.AssemblyInfoInputs.cache
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.AssemblyInfo.cs
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.dll
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\refint\IntroToVisualStudio.dll
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.pdb
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\IntroToVisualStudio.genruntimeconfig.cache
+C:\Users\v.nikabadze\source\repos\IntroToVisualStudio\IntroToVisualStudio\obj\Debug\net5.0\ref\IntroToVisualStudio.dll
